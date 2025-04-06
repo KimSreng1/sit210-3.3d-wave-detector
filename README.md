@@ -91,6 +91,6 @@ https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=3400bdeb-a8cb-4033-a7
 
 ## 📝 Author
 
-**Kimsreng C.**  
+**Kimsreng IN.**  
 SIT210 – Embedded Systems Development  
 Deakin University
