@@ -76,8 +76,7 @@ Install via Arduino Library Manager if not already available.
 
 ## 🎥 Demo Video
 
-*Link to your short demonstration video here:*  
-`[Watch the Demo](https://yourlink.com)`
+https://deakin.au.panopto.com/Panopto/Pages/Viewer.aspx?id=3400bdeb-a8cb-4033-a79f-b2b700b804a7
 
 ---
 
